@@ -1,0 +1,4 @@
+interface:
+  display_name: "서비스 소개 영상 제작"
+  short_description: "실제 화면 녹화와 자연스러운 커서·한국어 내레이션으로 1080p 데모 제작"
+  default_prompt: "Use $record-service-demo to produce a 20-second 1080p service walkthrough with Korean narration and subtitles."

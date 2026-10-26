@@ -1,0 +1,6 @@
+.env
+node_modules/
+output/
+.demo-browser/
+app-session/
+*.log
