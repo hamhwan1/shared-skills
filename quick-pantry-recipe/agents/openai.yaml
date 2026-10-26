@@ -1,0 +1,4 @@
+interface:
+  display_name: "15분 냉장고 레시피"
+  short_description: "집에 있는 재료로 만드는 초간단 요리와 양념, 팁 한 개, 네이버 레시피 두 개"
+  default_prompt: "$quick-pantry-recipe 집에 있는 재료로 15분 안에 만들 요리와 양념, 팁 한 개, 네이버 블로그 레시피 글 두 개를 알려 줘."
