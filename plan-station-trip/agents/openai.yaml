@@ -1,0 +1,4 @@
+interface:
+  display_name: "주요 역 출발 1박 2일 여행"
+  short_description: "목적지의 주요 역에서 출발하는 맛집·관광 일정과 네이버 블로그 후기 3개"
+  default_prompt: "$plan-station-trip 목적지의 주요 역 기준 1박 2일 일정과 우천 대안을 만들고 네이버 블로그 글 3개를 아래에 보여 줘."
